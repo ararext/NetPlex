@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: white;
+    text-align: center;
+  }
+  
+  #video-list {
+    margin-top: 20px;
+  }
+  
+  .video-item {
+    cursor: pointer;
+    color: #1e90ff;
+    margin: 10px 0;
+  }
+  
+  #video-player {
+    margin-top: 30px;
+  }
+  
+  video {
+    width: 80%;
+    height: auto;
+  }
+  
